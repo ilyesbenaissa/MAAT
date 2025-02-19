@@ -51,3 +51,19 @@ bash ./scripts/SWAT.sh
 bash ./scripts/NIPS_TS_Swan.sh
 bash ./scripts/NIPS_TS_Water.sh
 ```
+## Citation
+If you find this repo useful, please cite our paper.
+
+```
+@misc{sellam2025maatmambaadaptiveanomaly,
+      title={MAAT: Mamba Adaptive Anomaly Transformer with association discrepancy for time series}, 
+      author={Abdellah Zakaria Sellam and Ilyes Benaissa and Abdelmalik Taleb-Ahmed and Luigi Patrono and Cosimo Distante},
+      year={2025},
+      eprint={2502.07858},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.07858}, 
+}
+```
+## Contact
+If you have any question or want to use the code, please contact z.abdellah.sellam@gmail.com, ilyesbenaissa7429@gmail.com
