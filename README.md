@@ -38,3 +38,24 @@ Keywords:  MAAT, Transformer, Association Discrepancy, Gated Attention, Mamba-SS
 
 ## Results
 ![alt text](img/result.png)
+## Get Start
+1. Install Python Python 3.10, PyTorch 2.4.*
+2. Download data.
+3. Train and evaluate. using the scripts in ./script folder:
+```bash
+bash ./scripts/SMD.sh
+bash ./scripts/MSL.sh
+bash ./scripts/SMAP.sh
+bash ./scripts/PSM.sh
+bash ./scripts/SWAT.sh
+bash ./scripts/NIPS_TS_Swan.sh
+bash ./scripts/NIPS_TS_Water.sh
+bash ./scripts/UCR.sh
+```
+
+### Running the code 
+
+### Training
+To run the training you can run the following scripts as follows:
+
+### Testing
