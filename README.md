@@ -1,5 +1,6 @@
-# MAAT
-MAAT: Mamba Adaptive Anomaly Transformer
+# MAAT: Mamba Adaptive Anomaly Transformer
+Authors: Abdellah Zakaria Sellam, Ilyes Benaissa, Abdelmalik Taleb-Ahmed, Luigi
+Patrono, Cosimo Distante
 
 ## Abstract
 Anomaly detection in time series poses a critical challenge in industrial moni-
@@ -22,9 +23,12 @@ pendencies critical for discerning subtle anomalies. A Mamba-Selective State
 Space Model (Mamba-SSM) is also integrated into the reconstruction mod-
 ule. A skip connection bridges the original reconstruction and the Mamba-
 SSM output, while a Gated Attention mechanism adaptively fuses features
-from both pathways. This design balances fidelity and contextual enhancement dynamically, improving anomaly localization and overall detection per-
-formance. Extensive experiments on benchmark datasets demonstrate that
+from both pathways. This design balances fidelity and contextual enhancement dynamically, 
+improving anomaly localization and overall detection performance. 
+Extensive experiments on benchmark datasets demonstrate that
 MAAT significantly outperforms prior methods, achieving superior anomaly
 distinguishability and generalization across diverse time series applications.
 By addressing the limitations of existing approaches, MAAT sets a new stan-
 dard for unsupervised time series anomaly detection in real-world scenarios.
+
+Keywords:MAAT, Transformer, Association Discrepancy, Gated Attention, Mamba-SSM, Sparse Attention, Anomaly Detection, Unsupervised Learning
