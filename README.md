@@ -55,7 +55,7 @@ There are ten files/folders in the source.
 - requirements.txt: Python packages needed to run this repo.
 
 ## Get Start
-1. Create new virtual environement.
+1. Create new virtual environement with Python 3.10
 2. Clone the repo.
 3. Install the requirements using: ```pip install -r requirements.txt```.
 4. Download data.
