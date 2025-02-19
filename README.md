@@ -34,7 +34,7 @@ dard for unsupervised time series anomaly detection in real-world scenarios.
 Keywords:  MAAT, Transformer, Association Discrepancy, Gated Attention, Mamba-SSM, Sparse Attention, Anomaly Detection, Unsupervised Learning
 
 ## Architecture
-![alt text](http://https://github.com/ilyesbenaissa/MAAT/img/full_maat.png)
+![alt text](https://github.com/ilyesbenaissa/MAAT/img/full_maat.png)
 
 ## Results
-![alt text](http://https://github.com/ilyesbenaissa/MAAT/img/result.png)
+![alt text](https://github.com/ilyesbenaissa/MAAT/img/result.png)
