@@ -43,7 +43,7 @@ Keywords:  MAAT, Transformer, Association Discrepancy, Gated Attention, Mamba-SS
 There are ten files/folders in the source.
 
 - data_factory: The preprocessing folder/file. All datasets preprocessing codes are here.
-- dataset: The dataset folder, and you can download all datasets [here](https://drive.google.com/drive/folders/1RaIJQ8esoWuhyphhmMaH-VCDh-WIluRR?usp=sharing).
+- dataset: The dataset folder, and you can download all datasets from [ DCdetector preprocessed datasets drive link ](https://drive.google.com/drive/folders/1RaIJQ8esoWuhyphhmMaH-VCDh-WIluRR?usp=sharing).
 - main.py: The main python file. You can adjustment all parameters in there.
 - metrics: There is the evaluation metrics code folder, which includes VUC, affiliation precision/recall pair, and other common metrics. The details can be corresponding to paper’s Section 4.2.
 - model: DCdetector model folder. The details can be corresponding to paper’s Section 3.
