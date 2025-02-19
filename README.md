@@ -51,9 +51,3 @@ bash ./scripts/SWAT.sh
 bash ./scripts/NIPS_TS_Swan.sh
 bash ./scripts/NIPS_TS_Water.sh
 ```
-### Running the code 
-
-### Training
-To run the training you can run the following scripts as follows:
-
-### Testing
