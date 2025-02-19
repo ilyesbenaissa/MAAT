@@ -39,21 +39,6 @@ Keywords:  MAAT, Transformer, Association Discrepancy, Gated Attention, Mamba-SS
 ## Results
 ![alt text](img/result.png)
 
-## Code Description
-There are ten files/folders in the source.
-
-- data_factory: The preprocessing folder/file. All datasets preprocessing codes are here.
-- dataset: The dataset folder, and you can download all datasets from [ DCdetector preprocessed datasets drive link ](https://drive.google.com/drive/folders/1RaIJQ8esoWuhyphhmMaH-VCDh-WIluRR?usp=sharing).
-- main.py: The main python file. You can adjustment all parameters in there.
-- metrics: There is the evaluation metrics code folder, which includes VUC, affiliation precision/recall pair, and other common metrics. The details can be corresponding to paper’s Section 4.2.
-- model: DCdetector model folder. The details can be corresponding to paper’s Section 3.
-- result: In our code demo, we can automatically save the results and train processing log in this folder.
-- scripts: All datasets and ablation experiments scripts. You can reproduce the experiment results as get start shown.
-- solver.py: Another python file. The training, validation, and testing processing are all in there. 
-- utils: Other functions for data processing and model building.
-- img: Images needed in readme.md.
-- requirements.txt: Python packages needed to run this repo.
-
 ## Get Start
 1. Create new virtual environement with Python 3.10
 2. Clone the repo.
