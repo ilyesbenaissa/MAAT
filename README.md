@@ -69,4 +69,4 @@ If you find this repo useful, please cite our paper.
 }
 ```
 ## Contact
-If you have any question or want to use the code, please contact z.abdellah.sellam@gmail.com, ilyesbenaissa7429@gmail.com
+If you have any question or want to use the code, please contact z.abdellah.sellam@gmail.com, ilyesbenaissa7429@gmail.com, abdelmalik.taleb-ahmed@uphf.fr, cosimo.distante@cnr.it.
