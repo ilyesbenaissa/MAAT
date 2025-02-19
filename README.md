@@ -55,7 +55,7 @@ There are ten files/folders in the source.
 - requirements.txt: Python packages needed to run this repo.
 
 ## Get Start
-1. Install Python Python 3.10, PyTorch 2.4.*
+1. Install the requirements using: ```pip install -r requirements.txt```
 2. Download data.
 3. Train and evaluate. using the scripts in ./script folder:
 ```bash
