@@ -55,10 +55,11 @@ There are ten files/folders in the source.
 - requirements.txt: Python packages needed to run this repo.
 
 ## Get Start
-1. Clone the repo.
-2. Install the requirements using: ```pip install -r requirements.txt```.
-3. Download data.
-4. Train and evaluate. using the scripts in ./script folder:
+1. Create new virtual environement.
+2. Clone the repo.
+3. Install the requirements using: ```pip install -r requirements.txt```.
+4. Download data.
+5. Train and evaluate. using the scripts in ./script folder:
 ```bash
 bash ./scripts/SMD.sh
 bash ./scripts/MSL.sh
