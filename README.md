@@ -1,5 +1,5 @@
 # MAAT: Mamba Adaptive Anomaly Transformer
-Authors: Abdellah Zakaria Sellam, Ilyes Benaissa, Abdelmalik Taleb-Ahmed, Luigi
+Authors: Abdellah Zakaria Sellam*, Ilyes Benaissa, Abdelmalik Taleb-Ahmed, Luigi
 Patrono, Cosimo Distante
 
 ## Abstract
