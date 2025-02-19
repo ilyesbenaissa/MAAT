@@ -40,7 +40,7 @@ Keywords:  MAAT, Transformer, Association Discrepancy, Gated Attention, Mamba-SS
 ![alt text](img/result.png)
 
 ## Get Start
-1. Create new virtual environement with Python 3.10
+1. Create new virtual environement with Python 3.10 .
 2. Clone the repo.
 3. Install the requirements using: ```pip install -r requirements.txt```.
 4. Download data.
