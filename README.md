@@ -50,9 +50,7 @@ bash ./scripts/PSM.sh
 bash ./scripts/SWAT.sh
 bash ./scripts/NIPS_TS_Swan.sh
 bash ./scripts/NIPS_TS_Water.sh
-bash ./scripts/UCR.sh
 ```
-
 ### Running the code 
 
 ### Training
