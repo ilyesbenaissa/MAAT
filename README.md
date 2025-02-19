@@ -31,4 +31,4 @@ distinguishability and generalization across diverse time series applications.
 By addressing the limitations of existing approaches, MAAT sets a new stan-
 dard for unsupervised time series anomaly detection in real-world scenarios.
 
-Keywords:MAAT, Transformer, Association Discrepancy, Gated Attention, Mamba-SSM, Sparse Attention, Anomaly Detection, Unsupervised Learning
+Keywords:  MAAT, Transformer, Association Discrepancy, Gated Attention, Mamba-SSM, Sparse Attention, Anomaly Detection, Unsupervised Learning
