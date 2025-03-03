@@ -44,7 +44,7 @@ Keywords:  MAAT, Transformer, Association Discrepancy, Gated Attention, Mamba-SS
 2. Clone the repo.
 3. Install the requirements using: ```pip install -r requirements.txt```.
 4. Download data.
-5. Train and evaluate. using the scripts in ./script folder:
+5. Train and evaluate. using the scripts in ./scripts folder:
 ```bash
 bash ./scripts/SMD.sh
 bash ./scripts/MSL.sh
