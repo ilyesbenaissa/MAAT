@@ -1,7 +1,7 @@
 # MAAT: Mamba Adaptive Anomaly Transformer
 Authors: Abdellah Zakaria Sellam*, Ilyes Benaissa, Abdelmalik Taleb-Ahmed, Luigi
 Patrono, Cosimo Distante
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maat-mamba-adaptive-anomaly-transformer-with/anomaly-detection-on-smd)](https://paperswithcode.com/sota/anomaly-detection-on-smd?p=maat-mamba-adaptive-anomaly-transformer-with)
 ## Abstract
 Anomaly detection in time series poses a critical challenge in industrial moni-
 toring, environmental sensing, and infrastructure reliability, where accurately
