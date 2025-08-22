@@ -58,14 +58,17 @@ bash ./scripts/NIPS_TS_Water.sh
 If you find this repo useful, please cite our paper.
 
 ```
-@misc{sellam2025maatmambaadaptiveanomaly,
-      title={MAAT: Mamba Adaptive Anomaly Transformer with association discrepancy for time series}, 
-      author={Abdellah Zakaria Sellam and Ilyes Benaissa and Abdelmalik Taleb-Ahmed and Luigi Patrono and Cosimo Distante},
-      year={2025},
-      eprint={2502.07858},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2502.07858}, 
+@article{SELLAM2025111685,
+title = {Mamba Adaptive Anomaly Transformer with association discrepancy for time series},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {160},
+pages = {111685},
+year = {2025},
+issn = {0952-1976},
+doi = {https://doi.org/10.1016/j.engappai.2025.111685},
+url = {https://www.sciencedirect.com/science/article/pii/S0952197625016872},
+author = {Abdellah Zakaria Sellam and Ilyes Benaissa and Abdelmalik Taleb-Ahmed and Luigi Patrono and Cosimo Distante},
+keywords = {Transformer, Association discrepancy, Gated attention, Mamba state space model, Sparse attention, Anomaly detection, Unsupervised learning},
 }
 ```
 ## Contact
