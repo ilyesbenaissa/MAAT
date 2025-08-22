@@ -5,8 +5,7 @@ Patrono, Cosimo Distante
 ## Paper
 Paper Accepted and Published 🤩.
 
-You can check our paper now in Engineering Applications of Artificial Intelligence journal:
-check it in this link: https://doi.org/10.1016/j.engappai.2025.111685
+You can check our paper now in Engineering Applications of Artificial Intelligence journal in this link: https://doi.org/10.1016/j.engappai.2025.111685
 ## Abstract
 Anomaly detection in time series poses a critical challenge in industrial moni-
 toring, environmental sensing, and infrastructure reliability, where accurately
