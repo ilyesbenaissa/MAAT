@@ -37,7 +37,7 @@ Keywords:  MAAT, Transformer, Association Discrepancy, Gated Attention, Mamba-SS
 ![alt text](img/full_maat.png)
 
 ## Results
-![alt text](img/result.png)
+![alt text](img/results.png)
 
 ## Get Start
 1. Create new virtual environement with Python 3.10 .
